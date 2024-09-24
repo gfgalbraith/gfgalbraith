@@ -1,17 +1,19 @@
 
 ### Hi, I'm Gemma 👋
 
+𓆝 𓆟 𓆞𓇼 ⋆｡˚ 𓆝⋆｡˚ 𓇼𓇼 ⋆.˚ 𓆉 𓆝 𓆡⋆.˚ 𓇼𓆝 𓆟 𓆞𓆝𓇼 𓇼 ⋆.˚ 𓆉 𓆝 𓆡⋆.˚ 𓇼⋆｡˚ 𓆝⋆｡˚ 𓇼 𓆟 𓆞𓆝 𓇼 ⋆｡˚ 𓆝⋆｡˚ 𓇼𓆟 𓆞𓆝𓇼 ⋆.˚ 𓆉 𓆝 𓆡⋆.˚ 𓇼 𓆟 𓆞𓇼 ⋆｡˚ 𓆝⋆｡˚ 𓇼 ⋆.˚ 𓆉 𓆝 𓆡⋆.˚ 𓇼
+
 I'm a **Marine Ecologist** broadly interested in **community ecology** and **connectivity** . My work often focuses on understanding the complex dynamics of marine ecosystems, particularly reef fish biodiversity and how environmental factors influence these communities. 🌊🐠
 
 I'm a **fish nerd** and enjoy being in the field but i'm always keen to combine my ecology perspectuve with learning new skills in **data science**. 
-Currently wokring at James Cook University, Townsville, Australia.
+Currently wokring at James Cook University, Townsville, Australia. 🇦🇺🦘
 
 ### What I'm currently working on:
-- Exploring deep **mesophotic coral ecosystems** using ROVs
-- Quantifying biodiversity patterns and processes from distinct coral reef geomorphologies like **seamounts**
-- Longterm **ecological monitoring** of coral reeefs and their resilience to environmental change 🐟
-- Assessing patterns and processes in ecological **connectivity** incorporating genetics, hydrodynamics and biogeography
-- Developing skills in **R** for data visualization and analysis 📈
+- Exploring deep **mesophotic coral ecosystems** using ROVs 🎮🕹️🐠
+- Quantifying biodiversity patterns and processes from distinct coral reef geomorphologies like **seamounts** 🌊🏔️
+- Longterm **ecological monitoring** of coral reeefs and their resilience to environmental change 🐟🐠🐡
+- Assessing patterns and processes in ecological **connectivity** incorporating genetics, hydrodynamics and biogeography 🧬🌊🌍
+- Developing skills in **R** for data visualization, analysis and reproducible research 📈📊
 
 ### What I enjoy:
 - Reef fish biodiversity data
