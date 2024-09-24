@@ -24,7 +24,7 @@ Reach me here or check out:
 
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat&logo=google-scholar&logoColor=white)]([https://scholar.google.com](https://scholar.google.com.au/citations?user=ifxcchsAAAAJ&hl=en))  
 [![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=flat&logo=Gmail&logoColor=white)](gfgalbraith@gmail.com)
-[![JCU Profile](https://your-image-link.com)](https://portfolio.jcu.edu.au/researchers/gemma.galbraith/)  
+[![JCU Profile](https://github.com/gfgalbraith/gfgalbraith/blob/main/James-Cook-University-1.webp))](https://portfolio.jcu.edu.au/researchers/gemma.galbraith/)  
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=flat&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Gemma-Galbraith)
 
 
