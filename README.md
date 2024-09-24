@@ -27,6 +27,9 @@ Reach me here or check out:
 [![JCU Profile](https://github.com/gfgalbraith/gfgalbraith/blob/main/James-Cook-University-1.webp))](https://portfolio.jcu.edu.au/researchers/gemma.galbraith/)  
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=flat&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Gemma-Galbraith)
 
+<a href="https://portfolio.jcu.edu.au/researchers/gemma.galbraith/">
+    <img src="[https://github.com/gfgalbraith/gfgalbraith/blob/main/James-Cook-University-1.webp] " alt="JCU Profile" width="150" />
+</a>
 
 <!--
 **gfgalbraith/gfgalbraith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
