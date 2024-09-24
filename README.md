@@ -1,7 +1,7 @@
 
 ### Hi, I'm Gemma 👋
 
-𓆝 𓆟 𓆞𓇼 ⋆｡˚ 𓆝⋆｡˚ 𓇼 ⋆.˚ 𓆉 𓆝 𓆡⋆.˚ 𓇼𓆝 𓆟 𓆞𓆝𓇼⋆.˚ 𓆉 𓆝 𓆡⋆.˚ 𓇼⋆｡˚ 𓆝⋆｡˚ 𓆡𓇼 𓆟 𓆞𓆝 𓇼 ⋆｡˚ 𓆝⋆｡˚ 𓆡𓇼𓆟 𓆞𓆝𓇼⋆.˚ 
+𓆝 𓆟 𓆞𓇼 ⋆｡˚ 𓆝⋆｡˚ 𓇼 ⋆.˚ 𓆝 𓆡⋆.˚ 𓇼𓆝 𓆟 𓆞𓆝𓇼⋆.˚ 𓆝 𓆡⋆.˚ 𓇼⋆｡˚ 𓆝⋆｡˚ 𓆡𓇼 𓆟 𓆞𓆝 𓇼 ⋆｡˚ 𓆝⋆｡˚ 𓆡｡˚𓆞𓆝𓇼⋆.˚ 
 
 I'm a **Marine Ecologist** broadly interested in **community ecology** and **connectivity** . My work often focuses on understanding the complex dynamics of marine ecosystems, particularly reef fish biodiversity and how environmental factors influence these communities. 🌊🐠
 
