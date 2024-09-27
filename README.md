@@ -1,7 +1,6 @@
-
+⋆.˚ 𓆝 𓆡⋆.˚𓇼𓆝｡˚ 
 ### Hi, I'm Gemma 👋
-
-𓆝 𓆟 𓆞𓇼 ⋆｡˚ 𓆝⋆｡˚ 𓇼 ⋆.˚ 𓆝 𓆡⋆.˚ 𓇼𓆝 𓆟 𓆞𓆝𓇼⋆.˚ 𓆝 𓆡⋆.˚ 𓇼⋆｡˚ 𓆝⋆｡˚ 𓆡𓇼 𓆟 𓆞𓆝 𓇼 ⋆｡˚ 𓆝⋆｡˚ 𓆡｡˚𓆞𓆝𓇼⋆.˚ 
+𓆝 𓆟 𓆞⋆｡˚𓆝 𓆞 𓆝
 
 I'm a **Marine Ecologist** broadly interested in **community ecology** and **connectivity** . My work often focuses on understanding the complex dynamics of marine ecosystems, particularly reef fish biodiversity and how environmental factors influence these communities. 🌊🐠
 
@@ -19,6 +18,7 @@ Currently wokring at James Cook University, Townsville, Australia. 🇦🇺🦘
 - Reef fish biodiversity data
 - Building models and visualizations that help make sense of complex ecological patterns
 - Learning new tools and techniques in data science
+- Mountain biking, hiking, camping and craft beer 
 
 Reach me here or check out:
 
